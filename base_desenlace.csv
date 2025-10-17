@@ -1,0 +1,930 @@
+codigo;ccaa;sexo;edad;patologia;tipo_procedimiento;adelanto_segunda_solicitud;desenlace
+NE00001370;Andalucia;Mujer;<30;otra;primera solicitud;no;denegacion
+NE00001471;Cantabria;Mujer;<30;otra;primera solicitud;no;denegacion
+NE00001401;Madrid;Mujer;<30;otra;primera solicitud;no;denegacion
+NE00001445;Madrid;Mujer;<30;otra;primera solicitud;no;denegacion
+NE00001523;Aragon;Hombre;<30;otra;primera solicitud;no;denegacion
+NE00000898;Aragon;Hombre;<30;oncologica;primera solicitud;si;prestacion
+NE00001206;Andalucia;Mujer;<30;neurologica;primera solicitud;no;prestacion
+NE00001208;Castilla y Leon;Hombre;<30;neurologica;primera solicitud;no;prestacion
+NE00002181;Pais Vasco;Mujer;>80;reumatologia y patologia osteomuscular;primera solicitud;no;prestacion
+NE00002123;Pais Vasco;Mujer;>80;reumatologia y patologia osteomuscular;primera solicitud;no;denegacion
+420345356;Cataluña;Hombre;>80;respiratoria;primera solicitud;si;fallecimiento
+424949513;Cataluña;Mujer;>80;respiratoria;primera solicitud;no;fallecimiento
+516890849;Cataluña;Mujer;>80;respiratoria;primera solicitud;no;fallecimiento
+NE00001411;Madrid;Hombre;>80;respiratoria;primera solicitud;no;prestacion
+469387026;Cataluña;Hombre;>80;respiratoria;primera solicitud;no;denegacion
+NE00001817;Islas Baleares;Hombre;>80;respiratoria;primera solicitud;no;prestacion
+542054927;Cataluña;Mujer;>80;respiratoria;instrucciones previas;no;denegacion
+NE00001580;Madrid;Mujer;>80;pluripatologia;primera solicitud;no;prestacion
+NE00002162;Pais Vasco;Mujer;>80;pluripatologia;primera solicitud;no;prestacion
+NE00001377;Andalucia;Mujer;>80;pluripatologia;primera solicitud;no;fallecimiento
+NE00002172;Pais Vasco;Mujer;>80;pluripatologia;primera solicitud;no;fallecimiento
+NE00001252;Islas Baleares;Mujer;>80;pluripatologia;primera solicitud;no;prestacion
+NE00001826;Islas Baleares;Mujer;>80;pluripatologia;primera solicitud;no;fallecimiento
+NE00001548;Castilla-La Mancha;Mujer;>80;pluripatologia;primera solicitud;no;denegacion
+NE00001671;Canarias;Mujer;>80;pluripatologia;primera solicitud;no;fallecimiento
+NE00001443;Madrid;Mujer;>80;pluripatologia;primera solicitud;no;denegacion
+NE00001586;Madrid;Mujer;>80;pluripatologia;primera solicitud;no;denegacion
+NE00001736;Comunidad Valenciana;Mujer;>80;pluripatologia;primera solicitud;no;denegacion
+NE00001691;Madrid;Hombre;>80;pluripatologia;primera solicitud;no;prestacion
+NE00001694;Madrid;Hombre;>80;pluripatologia;primera solicitud;no;prestacion
+NE00001373;Andalucia;Hombre;>80;pluripatologia;primera solicitud;no;fallecimiento
+NE00001851;Islas Baleares;Hombre;>80;pluripatologia;primera solicitud;no;denegacion
+NE00001036;Madrid;Hombre;>80;pluripatologia;primera solicitud;no;fallecimiento
+NE00001203;Cantabria;Hombre;>80;pluripatologia;primera solicitud;no;denegacion
+NE00001843;Islas Baleares;Hombre;>80;pluripatologia;primera solicitud;no;denegacion
+NE00001782;Madrid;Hombre;>80;pluripatologia;primera solicitud;no;denegacion
+422665554;Cataluña;Mujer;>80;otra;primera solicitud;si;prestacion
+489018060;Cataluña;Mujer;>80;otra;primera solicitud;si;prestacion
+551616325;Cataluña;Mujer;>80;otra;primera solicitud;si;fallecimiento
+420906080;Cataluña;Mujer;>80;otra;primera solicitud;no;prestacion
+455036615;Cataluña;Mujer;>80;otra;primera solicitud;no;prestacion
+465454526;Cataluña;Mujer;>80;otra;primera solicitud;no;prestacion
+473795787;Cataluña;Mujer;>80;otra;primera solicitud;no;prestacion
+473889247;Cataluña;Mujer;>80;otra;primera solicitud;no;prestacion
+473921754;Cataluña;Mujer;>80;otra;primera solicitud;no;prestacion
+500386727;Cataluña;Mujer;>80;otra;primera solicitud;no;prestacion
+500715934;Cataluña;Mujer;>80;otra;primera solicitud;no;fallecimiento
+451506557;Cataluña;Mujer;>80;otra;primera solicitud;no;denegacion
+449353081;Cataluña;Mujer;>80;otra;primera solicitud;no;fallecimiento
+483203010;Cataluña;Mujer;>80;otra;primera solicitud;no;fallecimiento
+622330264;Cataluña;Mujer;>80;otra;primera solicitud;no;prestacion
+622330269;Cataluña;Mujer;>80;otra;primera solicitud;no;prestacion
+NE00002119;Pais Vasco;Mujer;>80;otra;primera solicitud;no;fallecimiento
+622330278;Cataluña;Mujer;>80;otra;primera solicitud;no;denegacion
+NE00001446;Madrid;Mujer;>80;otra;primera solicitud;no;denegacion
+439257138;Cataluña;Hombre;>80;otra;primera solicitud;no;prestacion
+475335174;Cataluña;Hombre;>80;otra;primera solicitud;no;prestacion
+483226533;Cataluña;Hombre;>80;otra;primera solicitud;no;prestacion
+487836125;Cataluña;Hombre;>80;otra;primera solicitud;no;prestacion
+495199244;Cataluña;Hombre;>80;otra;primera solicitud;no;prestacion
+497352203;Cataluña;Hombre;>80;otra;primera solicitud;no;prestacion
+436277101;Cataluña;Hombre;>80;otra;primera solicitud;no;fallecimiento
+556493205;Cataluña;Hombre;>80;otra;primera solicitud;no;fallecimiento
+622330266;Cataluña;Hombre;>80;otra;primera solicitud;no;prestacion
+NE00001501;Extremadura;Hombre;>80;otra;primera solicitud;no;denegacion
+NE00001592;Madrid;Hombre;>80;otra;primera solicitud;no;denegacion
+410794851;Cataluña;Mujer;>80;otra;instrucciones previas;no;prestacion
+533668183;Cataluña;Mujer;>80;oncologica;primera solicitud;si;prestacion
+NE00001861;Madrid;Mujer;>80;oncologica;primera solicitud;si;prestacion
+NE00001862;Madrid;Mujer;>80;oncologica;primera solicitud;si;denegacion
+444160025;Cataluña;Hombre;>80;oncologica;primera solicitud;si;prestacion
+492963378;Cataluña;Hombre;>80;oncologica;primera solicitud;si;prestacion
+419022143;Cataluña;Hombre;>80;oncologica;primera solicitud;si;fallecimiento
+NE00001286;Asturias;Hombre;>80;oncologica;primera solicitud;si;prestacion
+NE00002190;Pais Vasco;Hombre;>80;oncologica;primera solicitud;si;fallecimiento
+430218631;Cataluña;Mujer;>80;oncologica;primera solicitud;no;prestacion
+465462104;Cataluña;Mujer;>80;oncologica;primera solicitud;no;prestacion
+466650013;Cataluña;Mujer;>80;oncologica;primera solicitud;no;prestacion
+501934639;Cataluña;Mujer;>80;oncologica;primera solicitud;no;prestacion
+622330256;Cataluña;Mujer;>80;oncologica;primera solicitud;no;prestacion
+NE00001322;Canarias;Mujer;>80;oncologica;primera solicitud;no;prestacion
+NE00001340;Canarias;Mujer;>80;oncologica;primera solicitud;no;prestacion
+NE00001410;Madrid;Mujer;>80;oncologica;primera solicitud;no;prestacion
+NE00001440;Madrid;Mujer;>80;oncologica;primera solicitud;no;prestacion
+NE00001565;Madrid;Mujer;>80;oncologica;primera solicitud;no;prestacion
+NE00001651;Canarias;Mujer;>80;oncologica;primera solicitud;no;prestacion
+NE00002133;Pais Vasco;Mujer;>80;oncologica;primera solicitud;no;prestacion
+466043745;Cataluña;Mujer;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001404;Madrid;Mujer;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001575;Madrid;Mujer;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001788;Galicia;Mujer;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001204;Cantabria;Mujer;>80;oncologica;primera solicitud;no;denegacion
+NE00001441;Madrid;Mujer;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001588;Madrid;Mujer;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001777;Madrid;Mujer;>80;oncologica;primera solicitud;no;fallecimiento
+NE00002227;Islas Baleares;Mujer;>80;oncologica;primera solicitud;no;fallecimiento
+413697295;Cataluña;Hombre;>80;oncologica;primera solicitud;no;prestacion
+443091108;Cataluña;Hombre;>80;oncologica;primera solicitud;no;prestacion
+485164660;Cataluña;Hombre;>80;oncologica;primera solicitud;no;prestacion
+NE00001329;Canarias;Hombre;>80;oncologica;primera solicitud;no;prestacion
+NE00001408;Madrid;Hombre;>80;oncologica;primera solicitud;no;prestacion
+NE00001535;Castilla-La Mancha;Hombre;>80;oncologica;primera solicitud;no;prestacion
+NE00001614;Navarra;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00002139;Pais Vasco;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00002164;Pais Vasco;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001692;Madrid;Hombre;>80;oncologica;primera solicitud;no;prestacion
+455536793;Cataluña;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001361;Andalucia;Hombre;>80;oncologica;primera solicitud;no;prestacion
+NE00001827;Islas Baleares;Hombre;>80;oncologica;primera solicitud;no;prestacion
+622330282;Cataluña;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+622330286;Cataluña;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001393;Castilla y Leon;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001783;Galicia;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001650;Canarias;Hombre;>80;oncologica;primera solicitud;no;denegacion
+NE00001472;Asturias;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001601;Madrid;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001678;Canarias;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001775;Madrid;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001784;Madrid;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001849;Islas Baleares;Hombre;>80;oncologica;primera solicitud;no;fallecimiento
+NE00001742;Comunidad Valenciana;Hombre;>80;oncologica;primera solicitud;no;denegacion
+NE00001685;Galicia;Mujer;>80;neurologica;primera solicitud;si;fallecimiento
+NE00002160;Pais Vasco;Hombre;>80;neurologica;primera solicitud;si;prestacion
+NE00002205;Andalucia;Hombre;>80;neurologica;primera solicitud;si;fallecimiento
+404275971;Cataluña;Mujer;>80;neurologica;primera solicitud;no;prestacion
+424073650;Cataluña;Mujer;>80;neurologica;primera solicitud;no;prestacion
+455042060;Cataluña;Mujer;>80;neurologica;primera solicitud;no;prestacion
+465384377;Cataluña;Mujer;>80;neurologica;primera solicitud;no;prestacion
+472374912;Cataluña;Mujer;>80;neurologica;primera solicitud;no;prestacion
+480184406;Cataluña;Mujer;>80;neurologica;primera solicitud;no;prestacion
+484645975;Cataluña;Mujer;>80;neurologica;primera solicitud;no;prestacion
+485724119;Cataluña;Mujer;>80;neurologica;primera solicitud;no;prestacion
+NE00000975;Comunidad Valenciana;Mujer;>80;neurologica;primera solicitud;no;prestacion
+NE00001037;Madrid;Mujer;>80;neurologica;primera solicitud;no;prestacion
+NE00001667;Canarias;Mujer;>80;neurologica;primera solicitud;no;prestacion
+NE00001746;Comunidad Valenciana;Mujer;>80;neurologica;primera solicitud;no;prestacion
+NE00001864;Madrid;Mujer;>80;neurologica;primera solicitud;no;prestacion
+NE00002113;Pais Vasco;Mujer;>80;neurologica;primera solicitud;no;prestacion
+423934466;Cataluña;Mujer;>80;neurologica;primera solicitud;no;fallecimiento
+476798977;Cataluña;Mujer;>80;neurologica;primera solicitud;no;fallecimiento
+480176137;Cataluña;Mujer;>80;neurologica;primera solicitud;no;fallecimiento
+519597890;Cataluña;Mujer;>80;neurologica;primera solicitud;no;fallecimiento
+NE00001481;La Rioja;Mujer;>80;neurologica;primera solicitud;no;fallecimiento
+461886533;Cataluña;Mujer;>80;neurologica;primera solicitud;no;fallecimiento
+406265882;Cataluña;Mujer;>80;neurologica;primera solicitud;no;denegacion
+622330262;Cataluña;Mujer;>80;neurologica;primera solicitud;no;prestacion
+NE00001865;Madrid;Mujer;>80;neurologica;primera solicitud;no;denegacion
+NE00002161;Pais Vasco;Mujer;>80;neurologica;primera solicitud;no;denegacion
+411663506;Cataluña;Hombre;>80;neurologica;primera solicitud;no;prestacion
+484572373;Cataluña;Hombre;>80;neurologica;primera solicitud;no;prestacion
+531073605;Cataluña;Hombre;>80;neurologica;primera solicitud;no;prestacion
+NE00001210;Castilla y Leon;Hombre;>80;neurologica;primera solicitud;no;prestacion
+NE00001382;Castilla y Leon;Hombre;>80;neurologica;primera solicitud;no;prestacion
+NE00001432;Madrid;Hombre;>80;neurologica;primera solicitud;no;prestacion
+NE00001693;Galicia;Hombre;>80;neurologica;primera solicitud;no;prestacion
+NE00001697;Madrid;Hombre;>80;neurologica;primera solicitud;no;prestacion
+NE00001741;Comunidad Valenciana;Hombre;>80;neurologica;primera solicitud;no;prestacion
+NE00002147;Pais Vasco;Hombre;>80;neurologica;primera solicitud;no;prestacion
+NE00002169;Pais Vasco;Hombre;>80;neurologica;primera solicitud;no;prestacion
+434343760;Cataluña;Hombre;>80;neurologica;primera solicitud;no;fallecimiento
+439635416;Cataluña;Hombre;>80;neurologica;primera solicitud;no;fallecimiento
+NE00002128;Pais Vasco;Hombre;>80;neurologica;primera solicitud;no;fallecimiento
+421682869;Cataluña;Hombre;>80;neurologica;primera solicitud;no;fallecimiento
+453634819;Cataluña;Hombre;>80;neurologica;primera solicitud;no;denegacion
+622330260;Cataluña;Hombre;>80;neurologica;primera solicitud;no;prestacion
+622330270;Cataluña;Hombre;>80;neurologica;primera solicitud;no;prestacion
+NE00001392;Castilla y Leon;Hombre;>80;neurologica;primera solicitud;no;fallecimiento
+NE00001582;Madrid;Hombre;>80;neurologica;primera solicitud;no;fallecimiento
+622330279;Cataluña;Hombre;>80;neurologica;primera solicitud;no;denegacion
+NE00001628;Navarra;Hombre;>80;neurologica;primera solicitud;no;denegacion
+NE00001400;Madrid;Hombre;>80;neurologica;primera solicitud;no;fallecimiento
+NE00000002;Galicia;Hombre;>80;neurologica;primera solicitud;no;denegacion
+NE00001709;Madrid;Hombre;>80;neurologica;primera solicitud;no;denegacion
+NE00001622;Navarra;Mujer;>80;neurologica;instrucciones previas;si;prestacion
+NE00002155;Pais Vasco;Mujer;>80;neurologica;instrucciones previas;si;prestacion
+NE00002156;Pais Vasco;Mujer;>80;neurologica;instrucciones previas;si;prestacion
+NE00001572;Madrid;Mujer;>80;neurologica;instrucciones previas;si;fallecimiento
+NE00001863;Madrid;Hombre;>80;neurologica;instrucciones previas;si;prestacion
+NE00002118;Pais Vasco;Hombre;>80;neurologica;instrucciones previas;si;prestacion
+NE00002151;Pais Vasco;Hombre;>80;neurologica;instrucciones previas;si;prestacion
+NE00002168;Pais Vasco;Hombre;>80;neurologica;instrucciones previas;si;prestacion
+NE00002175;Pais Vasco;Hombre;>80;neurologica;instrucciones previas;si;prestacion
+NE00002188;Pais Vasco;Hombre;>80;neurologica;instrucciones previas;si;prestacion
+NE00000978;Comunidad Valenciana;Mujer;>80;neurologica;instrucciones previas;no;prestacion
+NE00001327;Canarias;Mujer;>80;neurologica;instrucciones previas;no;prestacion
+NE00001569;Madrid;Mujer;>80;neurologica;instrucciones previas;no;prestacion
+414653640;Cataluña;Mujer;>80;neurologica;instrucciones previas;no;prestacion
+411650324;Cataluña;Mujer;>80;neurologica;instrucciones previas;no;fallecimiento
+NE00002183;Pais Vasco;Mujer;>80;neurologica;instrucciones previas;no;denegacion
+488464378;Cataluña;Hombre;>80;neurologica;instrucciones previas;no;prestacion
+512363579;Cataluña;Hombre;>80;neurologica;instrucciones previas;no;fallecimiento
+550985509;Cataluña;Mujer;>80;desconocida;primera solicitud;si;prestacion
+426046941;Cataluña;Mujer;>80;desconocida;primera solicitud;si;fallecimiento
+503382517;Cataluña;Mujer;>80;desconocida;primera solicitud;no;prestacion
+506170564;Cataluña;Mujer;>80;desconocida;primera solicitud;no;prestacion
+509278183;Cataluña;Mujer;>80;desconocida;primera solicitud;no;prestacion
+523461627;Cataluña;Mujer;>80;desconocida;primera solicitud;no;prestacion
+527848805;Cataluña;Mujer;>80;desconocida;primera solicitud;no;prestacion
+528310172;Cataluña;Mujer;>80;desconocida;primera solicitud;no;prestacion
+530181089;Cataluña;Mujer;>80;desconocida;primera solicitud;no;prestacion
+530873313;Cataluña;Mujer;>80;desconocida;primera solicitud;no;prestacion
+536086134;Cataluña;Mujer;>80;desconocida;primera solicitud;no;prestacion
+528307114;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+535394727;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+570988959;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+444052454;Cataluña;Mujer;>80;desconocida;primera solicitud;no;denegacion
+427952895;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+434329637;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+439087490;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+447783894;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+498207181;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+504004060;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+505225722;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+512444115;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+528205025;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+540534152;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+559115602;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+583682323;Cataluña;Mujer;>80;desconocida;primera solicitud;no;fallecimiento
+529783585;Cataluña;Mujer;>80;desconocida;primera solicitud;no;denegacion
+NE00001744;Comunidad Valenciana;Mujer;>80;desconocida;primera solicitud;no;denegacion
+NE00001171;Murcia;Mujer;>80;desconocida;primera solicitud;no;denegacion
+NE00001833;Islas Baleares;Mujer;>80;desconocida;primera solicitud;no;denegacion
+NE00002207;Andalucia;Mujer;>80;desconocida;primera solicitud;no;denegacion
+NE00002210;Andalucia;Mujer;>80;desconocida;primera solicitud;no;denegacion
+517949826;Cataluña;Hombre;>80;desconocida;primera solicitud;no;prestacion
+530676083;Cataluña;Hombre;>80;desconocida;primera solicitud;no;prestacion
+481585793;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+520352087;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+521325286;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+559068972;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+408378000;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+414562574;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+436764889;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+451491744;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+497862280;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+504378311;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+524230610;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+527553351;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+556513830;Cataluña;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+NE00001760;Comunidad Valenciana;Hombre;>80;desconocida;primera solicitud;no;denegacion
+NE00001287;Asturias;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+NE00001507;Asturias;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+NE00002215;Andalucia;Hombre;>80;desconocida;primera solicitud;no;fallecimiento
+NE00001722;Galicia;Hombre;>80;desconocida;primera solicitud;no;denegacion
+545662266;Cataluña;Hombre;>80;desconocida;instrucciones previas;no;prestacion
+464777628;Cataluña;Hombre;>80;desconocida;instrucciones previas;no;fallecimiento
+NE00002177;Pais Vasco;Hombre;>80;cardiovascular;primera solicitud;si;prestacion
+NE00001626;Navarra;Hombre;>80;cardiovascular;primera solicitud;si;fallecimiento
+513680620;Cataluña;Mujer;>80;cardiovascular;primera solicitud;no;prestacion
+429544354;Cataluña;Mujer;>80;cardiovascular;primera solicitud;no;fallecimiento
+NE00001779;Madrid;Mujer;>80;cardiovascular;primera solicitud;no;fallecimiento
+498890665;Cataluña;Hombre;>80;cardiovascular;primera solicitud;no;prestacion
+NE00001659;Canarias;Hombre;>80;cardiovascular;primera solicitud;no;prestacion
+NE00001723;Galicia;Hombre;>80;cardiovascular;primera solicitud;no;prestacion
+NE00001734;Comunidad Valenciana;Hombre;>80;cardiovascular;primera solicitud;no;denegacion
+439746784;Cataluña;Mujer;>80;cardiovascular;instrucciones previas;no;prestacion
+569980334;Cataluña;Mujer;<30;desconocida;primera solicitud;no;revocacion
+NE00001412;Madrid;Hombre;<30;neurologica;primera solicitud;no;revocacion
+NE00002167;Pais Vasco;Mujer;30-39;reumatologia y patologia osteomuscular;primera solicitud;no;denegacion
+NE00001409;Madrid;Hombre;30-39;reumatologia y patologia osteomuscular;primera solicitud;no;denegacion
+NE00001464;Andalucia;Hombre;30-39;pluripatologia;primera solicitud;no;denegacion
+NE00001487;Andalucia;Hombre;30-39;pluripatologia;primera solicitud;no;denegacion
+429041744;Cataluña;Mujer;30-39;otra;primera solicitud;no;denegacion
+NE00001256;Islas Baleares;Mujer;30-39;otra;primera solicitud;no;denegacion
+NE00001176;Castilla y Leon;Mujer;30-39;otra;primera solicitud;no;denegacion
+NE00001268;Castilla y Leon;Mujer;30-39;otra;primera solicitud;no;denegacion
+NE00001815;Islas Baleares;Mujer;30-39;otra;primera solicitud;no;denegacion
+NE00002199;Andalucia;Mujer;30-39;otra;primera solicitud;no;denegacion
+NE00001344;Castilla y Leon;Mujer;30-39;oncologica;primera solicitud;si;prestacion
+NE00001413;Madrid;Hombre;30-39;oncologica;primera solicitud;si;prestacion
+NE00001431;Madrid;Hombre;30-39;oncologica;primera solicitud;no;fallecimiento
+488866385;Cataluña;Mujer;30-39;neurologica;primera solicitud;no;denegacion
+NE00001819;Islas Baleares;Mujer;30-39;neurologica;primera solicitud;no;denegacion
+NE00001362;Andalucia;Hombre;30-39;neurologica;primera solicitud;no;prestacion
+NE00001363;Andalucia;Hombre;30-39;neurologica;primera solicitud;no;prestacion
+NE00001527;Aragon;Hombre;30-39;neurologica;primera solicitud;no;prestacion
+NE00001583;Madrid;Hombre;30-39;neurologica;primera solicitud;no;prestacion
+502748834;Cataluña;Hombre;30-39;neurologica;primera solicitud;no;denegacion
+NE00001579;Madrid;Hombre;30-39;neurologica;primera solicitud;no;denegacion
+NE00001390;La Rioja;Hombre;30-39;neurologica;instrucciones previas;si;prestacion
+559105907;Cataluña;Mujer;30-39;desconocida;primera solicitud;no;fallecimiento
+481095026;Cataluña;Mujer;30-39;desconocida;primera solicitud;no;denegacion
+514126377;Cataluña;Mujer;30-39;desconocida;primera solicitud;no;denegacion
+NE00001458;Asturias;Mujer;30-39;desconocida;primera solicitud;no;denegacion
+NE00001753;Comunidad Valenciana;Hombre;30-39;desconocida;primera solicitud;no;denegacion
+NE00001082;Galicia;Mujer;40-49;pluripatologia;primera solicitud;no;revocacion
+NE00001084;Galicia;Mujer;40-49;neurologica;primera solicitud;no;revocacion
+NE00001421;Madrid;Hombre;40-49;neurologica;primera solicitud;no;revocacion
+NE00001442;Madrid;Mujer;40-49;neurologica;primera solicitud;no;revocacion
+NE00001460;Asturias;Hombre;40-49;desconocida;primera solicitud;no;revocacion
+NE00001577;Madrid;Hombre;40-49;reumatologia y patologia osteomuscular;primera solicitud;no;prestacion
+NE00001639;Canarias;Hombre;40-49;pluripatologia;primera solicitud;no;denegacion
+458827882;Cataluña;Mujer;40-49;otra;primera solicitud;si;denegacion
+455127960;Cataluña;Hombre;40-49;otra;primera solicitud;si;fallecimiento
+NE00001480;Cantabria;Mujer;40-49;otra;primera solicitud;no;denegacion
+468589503;Cataluña;Hombre;40-49;otra;primera solicitud;no;denegacion
+NE00001689;Madrid;Hombre;40-49;otra;primera solicitud;no;denegacion
+NE00001537;Castilla-La Mancha;Hombre;40-49;otra;primera solicitud;no;denegacion
+NE00001566;Madrid;Hombre;40-49;otra;primera solicitud;no;denegacion
+NE00001631;Navarra;Hombre;40-49;oncologica;primera solicitud;si;prestacion
+NE00001403;Madrid;Mujer;40-49;oncologica;primera solicitud;no;prestacion
+NE00002166;Pais Vasco;Mujer;40-49;oncologica;primera solicitud;no;prestacion
+NE00001552;Castilla-La Mancha;Mujer;40-49;oncologica;primera solicitud;no;fallecimiento
+NE00001789;Madrid;Mujer;40-49;oncologica;primera solicitud;no;fallecimiento
+NE00002152;Pais Vasco;Hombre;40-49;oncologica;primera solicitud;no;prestacion
+NE00001479;Castilla y Leon;Hombre;40-49;oncologica;primera solicitud;no;prestacion
+NE00001529;Aragon;Hombre;40-49;oncologica;primera solicitud;no;fallecimiento
+NE00001781;Madrid;Hombre;40-49;oncologica;primera solicitud;no;fallecimiento
+430329477;Cataluña;Mujer;40-49;neurologica;primera solicitud;no;prestacion
+NE00001374;Andalucia;Mujer;40-49;neurologica;primera solicitud;no;prestacion
+NE00001378;Andalucia;Mujer;40-49;neurologica;primera solicitud;no;prestacion
+NE00001497;Extremadura;Mujer;40-49;neurologica;primera solicitud;no;prestacion
+NE00001568;Madrid;Mujer;40-49;neurologica;primera solicitud;no;prestacion
+NE00001687;Madrid;Mujer;40-49;neurologica;primera solicitud;no;prestacion
+NE00001735;Comunidad Valenciana;Mujer;40-49;neurologica;primera solicitud;no;prestacion
+417981104;Cataluña;Mujer;40-49;neurologica;primera solicitud;no;fallecimiento
+575193507;Cataluña;Mujer;40-49;neurologica;primera solicitud;no;denegacion
+NE00001545;Castilla-La Mancha;Mujer;40-49;neurologica;primera solicitud;no;fallecimiento
+NE00001578;Madrid;Mujer;40-49;neurologica;primera solicitud;no;denegacion
+NE00001751;Comunidad Valenciana;Mujer;40-49;neurologica;primera solicitud;no;denegacion
+521324748;Cataluña;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00000905;Andalucia;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00001130;Castilla y Leon;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00001320;Canarias;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00001376;Andalucia;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00001391;La Rioja;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00001426;Castilla y Leon;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00001493;Andalucia;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00001521;Murcia;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00001724;Galicia;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00002129;Pais Vasco;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+NE00001513;Aragon;Hombre;40-49;neurologica;primera solicitud;no;denegacion
+NE00001729;Galicia;Hombre;40-49;neurologica;primera solicitud;no;prestacion
+496580311;Cataluña;Mujer;40-49;desconocida;primera solicitud;si;fallecimiento
+517278741;Cataluña;Mujer;40-49;desconocida;primera solicitud;si;fallecimiento
+NE00001254;Islas Baleares;Mujer;40-49;desconocida;primera solicitud;no;fallecimiento
+NE00002217;Andalucia;Mujer;40-49;desconocida;primera solicitud;no;fallecimiento
+NE00001175;Murcia;Mujer;40-49;desconocida;primera solicitud;no;denegacion
+NE00001349;Asturias;Mujer;40-49;desconocida;primera solicitud;no;denegacion
+622330271;Cataluña;Hombre;40-49;desconocida;primera solicitud;no;prestacion
+559201878;Cataluña;Hombre;40-49;desconocida;instrucciones previas;no;prestacion
+NE00000001;Melilla;Mujer;50-59;neurologica;primera solicitud;no;revocacion
+NE00001083;Galicia;Mujer;50-59;oncologica;primera solicitud;no;revocacion
+NE00001309;Asturias;Hombre;50-59;desconocida;primera solicitud;no;revocacion
+NE00001427;Castilla y Leon;Hombre;50-59;desconocida;primera solicitud;no;revocacion
+NE00001514;Aragon;Hombre;50-59;neurologica;primera solicitud;no;revocacion
+NE00001540;Castilla-La Mancha;Mujer;50-59;desconocida;primera solicitud;no;revocacion
+NE00001665;Canarias;Hombre;50-59;pluripatologia;primera solicitud;no;revocacion
+NE00001682;Madrid;Hombre;50-59;oncologica;primera solicitud;no;revocacion
+NE00001768;Madrid;Mujer;50-59;oncologica;primera solicitud;no;revocacion
+NE00001769;Madrid;Mujer;50-59;otra;primera solicitud;no;revocacion
+NE00001809;Madrid;Mujer;50-59;neurologica;primera solicitud;no;revocacion
+NE00001812;Islas Baleares;Hombre;50-59;neurologica;primera solicitud;no;revocacion
+NE00001828;Islas Baleares;Mujer;50-59;neurologica;primera solicitud;si;revocacion
+NE00002211;Andalucia;Mujer;50-59;desconocida;primera solicitud;no;revocacion
+NE00002220;Andalucia;Hombre;50-59;desconocida;primera solicitud;no;revocacion
+NE00002154;Pais Vasco;Mujer;50-59;reumatologia y patologia osteomuscular;primera solicitud;no;prestacion
+NE00001726;Galicia;Hombre;50-59;reumatologia y patologia osteomuscular;primera solicitud;no;denegacion
+546236464;Cataluña;Hombre;50-59;respiratoria;primera solicitud;no;prestacion
+NE00000786;Andalucia;Hombre;50-59;respiratoria;primera solicitud;no;prestacion
+NE00001396;Cantabria;Hombre;50-59;pluripatologia;primera solicitud;no;prestacion
+NE00000904;Andalucia;Hombre;50-59;pluripatologia;primera solicitud;no;denegacion
+NE00001368;Andalucia;Hombre;50-59;pluripatologia;primera solicitud;no;denegacion
+NE00001820;Islas Baleares;Hombre;50-59;pluripatologia;primera solicitud;no;denegacion
+NE00001739;Comunidad Valenciana;Mujer;50-59;otra;primera solicitud;no;fallecimiento
+NE00001646;Canarias;Mujer;50-59;otra;primera solicitud;no;denegacion
+NE00001642;Canarias;Hombre;50-59;otra;primera solicitud;no;fallecimiento
+NE00001604;Madrid;Hombre;50-59;otra;primera solicitud;no;denegacion
+NE00002187;Pais Vasco;Hombre;50-59;otra;primera solicitud;no;denegacion
+NE00001383;Castilla y Leon;Hombre;50-59;otra;primera solicitud;no;denegacion
+NE00001547;Castilla-La Mancha;Hombre;50-59;otra;primera solicitud;no;denegacion
+NE00001606;Madrid;Hombre;50-59;otra;primera solicitud;no;denegacion
+469218183;Cataluña;Mujer;50-59;oncologica;primera solicitud;si;prestacion
+492767111;Cataluña;Mujer;50-59;oncologica;primera solicitud;si;prestacion
+NE00001509;Aragon;Mujer;50-59;oncologica;primera solicitud;si;prestacion
+NE00001752;Comunidad Valenciana;Mujer;50-59;oncologica;primera solicitud;si;prestacion
+NE00002117;Pais Vasco;Mujer;50-59;oncologica;primera solicitud;si;prestacion
+NE00002149;Pais Vasco;Hombre;50-59;oncologica;primera solicitud;si;prestacion
+410712886;Cataluña;Mujer;50-59;oncologica;primera solicitud;no;prestacion
+455009135;Cataluña;Mujer;50-59;oncologica;primera solicitud;no;prestacion
+457010201;Cataluña;Mujer;50-59;oncologica;primera solicitud;no;prestacion
+NE00001653;Canarias;Mujer;50-59;oncologica;primera solicitud;no;prestacion
+NE00001766;Canarias;Mujer;50-59;oncologica;primera solicitud;no;prestacion
+NE00002184;Pais Vasco;Mujer;50-59;oncologica;primera solicitud;no;prestacion
+569899617;Cataluña;Mujer;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001365;Andalucia;Mujer;50-59;oncologica;primera solicitud;no;denegacion
+NE00001519;Aragon;Mujer;50-59;oncologica;primera solicitud;no;denegacion
+NE00001332;Canarias;Mujer;50-59;oncologica;primera solicitud;no;fallecimiento
+501607484;Cataluña;Hombre;50-59;oncologica;primera solicitud;no;prestacion
+503613513;Cataluña;Hombre;50-59;oncologica;primera solicitud;no;prestacion
+NE00001381;Andalucia;Hombre;50-59;oncologica;primera solicitud;no;prestacion
+NE00001433;Madrid;Hombre;50-59;oncologica;primera solicitud;no;prestacion
+NE00001486;Andalucia;Hombre;50-59;oncologica;primera solicitud;no;prestacion
+NE00001508;Aragon;Hombre;50-59;oncologica;primera solicitud;no;prestacion
+NE00001737;Comunidad Valenciana;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+487352977;Cataluña;Hombre;50-59;oncologica;primera solicitud;no;denegacion
+622330284;Cataluña;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001475;Castilla y Leon;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001822;Islas Baleares;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001842;Islas Baleares;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001262;Islas Baleares;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001438;Madrid;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001450;Cantabria;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001498;Extremadura;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001557;Castilla-La Mancha;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001708;Madrid;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+NE00001834;Islas Baleares;Hombre;50-59;oncologica;primera solicitud;no;fallecimiento
+479457423;Cataluña;Mujer;50-59;oncologica;instrucciones previas;si;fallecimiento
+446404022;Cataluña;Mujer;50-59;neurologica;primera solicitud;si;prestacion
+NE00002112;Pais Vasco;Mujer;50-59;neurologica;primera solicitud;si;prestacion
+NE00002125;Pais Vasco;Mujer;50-59;neurologica;primera solicitud;si;prestacion
+NE00001465;Andalucia;Hombre;50-59;neurologica;primera solicitud;si;prestacion
+NE00001728;Galicia;Hombre;50-59;neurologica;primera solicitud;si;prestacion
+622330259;Cataluña;Hombre;50-59;neurologica;primera solicitud;si;prestacion
+NE00001318;Canarias;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+NE00001423;Madrid;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+NE00001429;Madrid;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+NE00001439;Madrid;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+NE00001500;Extremadura;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+NE00001536;Castilla-La Mancha;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+NE00001684;Galicia;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+500092169;Cataluña;Mujer;50-59;neurologica;primera solicitud;no;fallecimiento
+NE00000769;Asturias;Mujer;50-59;neurologica;primera solicitud;no;fallecimiento
+NE00001354;Castilla y Leon;Mujer;50-59;neurologica;primera solicitud;no;fallecimiento
+622330274;Cataluña;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+NE00001814;Islas Baleares;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+NE00001750;Comunidad Valenciana;Mujer;50-59;neurologica;primera solicitud;no;denegacion
+NE00001266;Castilla y Leon;Mujer;50-59;neurologica;primera solicitud;no;denegacion
+NE00000969;Galicia;Mujer;50-59;neurologica;primera solicitud;no;prestacion
+NE00001353;Cantabria;Mujer;50-59;neurologica;primera solicitud;no;fallecimiento
+NE00001564;Madrid;Mujer;50-59;neurologica;primera solicitud;no;denegacion
+NE00001167;Castilla y Leon;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001366;Andalucia;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001415;Madrid;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001419;Madrid;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001476;Castilla y Leon;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001494;Andalucia;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001649;Canarias;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001747;Comunidad Valenciana;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001823;Islas Baleares;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001841;Islas Baleares;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00002116;Pais Vasco;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00002193;Asturias;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+408660208;Cataluña;Hombre;50-59;neurologica;primera solicitud;no;denegacion
+NE00001255;Islas Baleares;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001455;Asturias;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001816;Islas Baleares;Hombre;50-59;neurologica;primera solicitud;no;prestacion
+NE00001308;Asturias;Hombre;50-59;neurologica;primera solicitud;no;fallecimiento
+NE00001417;Madrid;Hombre;50-59;neurologica;primera solicitud;no;fallecimiento
+NE00001356;Andalucia;Hombre;50-59;neurologica;primera solicitud;no;denegacion
+NE00001466;Andalucia;Hombre;50-59;neurologica;primera solicitud;no;denegacion
+NE00001496;Extremadura;Hombre;50-59;neurologica;primera solicitud;no;denegacion
+NE00001267;Castilla y Leon;Hombre;50-59;neurologica;primera solicitud;no;fallecimiento
+NE00001375;Andalucia;Hombre;50-59;neurologica;primera solicitud;no;denegacion
+NE00001534;Castilla-La Mancha;Hombre;50-59;neurologica;primera solicitud;no;denegacion
+NE00001031;Madrid;Mujer;50-59;neurologica;instrucciones previas;si;prestacion
+NE00001218;Madrid;Mujer;50-59;neurologica;instrucciones previas;si;prestacion
+NE00001829;Islas Baleares;Mujer;50-59;neurologica;instrucciones previas;si;prestacion
+NE00002126;Pais Vasco;Mujer;50-59;neurologica;instrucciones previas;si;prestacion
+473678495;Cataluña;Mujer;50-59;desconocida;primera solicitud;si;fallecimiento
+511950436;Cataluña;Mujer;50-59;desconocida;primera solicitud;no;denegacion
+526058431;Cataluña;Mujer;50-59;desconocida;primera solicitud;no;denegacion
+NE00001144;Castilla y Leon;Mujer;50-59;desconocida;primera solicitud;no;denegacion
+NE00001457;Asturias;Mujer;50-59;desconocida;primera solicitud;no;denegacion
+522296842;Cataluña;Hombre;50-59;desconocida;primera solicitud;no;prestacion
+564054465;Cataluña;Hombre;50-59;desconocida;primera solicitud;no;fallecimiento
+NE00001347;Asturias;Hombre;50-59;desconocida;primera solicitud;no;denegacion
+NE00001364;Andalucia;Hombre;50-59;desconocida;primera solicitud;no;denegacion
+NE00001549;Castilla-La Mancha;Hombre;50-59;desconocida;primera solicitud;no;denegacion
+NE00002208;Andalucia;Hombre;50-59;desconocida;primera solicitud;no;denegacion
+NE00002218;Andalucia;Hombre;50-59;desconocida;primera solicitud;no;denegacion
+622330261;Cataluña;Hombre;50-59;cardiovascular;primera solicitud;no;prestacion
+420402669;Cataluña;Mujer;60-69;desconocida;primera solicitud;no;revocacion
+493522120;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;revocacion
+NE00001172;Murcia;Hombre;60-69;neurologica;primera solicitud;si;revocacion
+NE00001270;Castilla y Leon;Hombre;60-69;neurologica;primera solicitud;no;revocacion
+NE00001345;Cantabria;Hombre;60-69;oncologica;primera solicitud;no;revocacion
+NE00001386;Castilla y Leon;Hombre;60-69;desconocida;primera solicitud;no;revocacion
+NE00001511;Aragon;Hombre;60-69;desconocida;primera solicitud;no;revocacion
+NE00001700;Madrid;Mujer;60-69;otra;primera solicitud;no;revocacion
+NE00001727;Galicia;Hombre;60-69;pluripatologia;primera solicitud;no;revocacion
+NE00001791;Galicia;Hombre;60-69;desconocida;primera solicitud;no;revocacion
+NE00001824;Islas Baleares;Hombre;60-69;desconocida;primera solicitud;no;revocacion
+NE00000956;Comunidad Valenciana;Hombre;60-69;reumatologia y patologia osteomuscular;primera solicitud;no;prestacion
+NE00001482;La Rioja;Hombre;60-69;reumatologia y patologia osteomuscular;primera solicitud;no;prestacion
+NE00001470;Andalucia;Mujer;60-69;respiratoria;primera solicitud;si;fallecimiento
+NE00000794;Andalucia;Mujer;60-69;respiratoria;primera solicitud;no;prestacion
+NE00001520;Aragon;Mujer;60-69;respiratoria;primera solicitud;no;prestacion
+NE00002157;Pais Vasco;Mujer;60-69;respiratoria;primera solicitud;no;prestacion
+NE00001740;Comunidad Valenciana;Mujer;60-69;respiratoria;primera solicitud;no;prestacion
+NE00000974;Comunidad Valenciana;Mujer;60-69;respiratoria;primera solicitud;no;prestacion
+NE00001337;Canarias;Hombre;60-69;respiratoria;primera solicitud;no;prestacion
+NE00001350;Asturias;Hombre;60-69;respiratoria;primera solicitud;no;prestacion
+NE00001657;Canarias;Hombre;60-69;respiratoria;primera solicitud;no;prestacion
+527533258;Cataluña;Hombre;60-69;respiratoria;primera solicitud;no;denegacion
+NE00001544;Castilla-La Mancha;Mujer;60-69;pluripatologia;primera solicitud;no;prestacion
+NE00001846;Islas Baleares;Hombre;60-69;pluripatologia;primera solicitud;no;denegacion
+622330267;Cataluña;Mujer;60-69;otra;primera solicitud;si;prestacion
+497118373;Cataluña;Hombre;60-69;otra;primera solicitud;si;fallecimiento
+NE00001522;Aragon;Mujer;60-69;otra;primera solicitud;no;denegacion
+NE00001388;La Rioja;Mujer;60-69;otra;primera solicitud;no;denegacion
+480222287;Cataluña;Hombre;60-69;otra;primera solicitud;no;prestacion
+564068893;Cataluña;Hombre;60-69;otra;primera solicitud;no;prestacion
+413250736;Cataluña;Hombre;60-69;otra;primera solicitud;no;fallecimiento
+NE00000968;Galicia;Hombre;60-69;otra;primera solicitud;no;fallecimiento
+NE00001447;Madrid;Mujer;60-69;oncologica;primera solicitud;si;prestacion
+NE00001612;Navarra;Mujer;60-69;oncologica;primera solicitud;si;prestacion
+NE00001623;Navarra;Mujer;60-69;oncologica;primera solicitud;si;prestacion
+NE00002121;Pais Vasco;Mujer;60-69;oncologica;primera solicitud;si;prestacion
+NE00002135;Pais Vasco;Mujer;60-69;oncologica;primera solicitud;si;prestacion
+412039126;Cataluña;Mujer;60-69;oncologica;primera solicitud;si;fallecimiento
+498692674;Cataluña;Mujer;60-69;oncologica;primera solicitud;si;fallecimiento
+NE00001640;Canarias;Mujer;60-69;oncologica;primera solicitud;si;fallecimiento
+NE00001436;Madrid;Hombre;60-69;oncologica;primera solicitud;si;prestacion
+NE00001627;Navarra;Hombre;60-69;oncologica;primera solicitud;si;prestacion
+NE00001654;Canarias;Hombre;60-69;oncologica;primera solicitud;si;prestacion
+450450052;Cataluña;Hombre;60-69;oncologica;primera solicitud;si;fallecimiento
+466044524;Cataluña;Hombre;60-69;oncologica;primera solicitud;si;fallecimiento
+NE00001302;Asturias;Hombre;60-69;oncologica;primera solicitud;si;fallecimiento
+NE00001621;Navarra;Hombre;60-69;oncologica;primera solicitud;si;fallecimiento
+NE00002130;Pais Vasco;Hombre;60-69;oncologica;primera solicitud;si;fallecimiento
+NE00002206;Andalucia;Hombre;60-69;oncologica;primera solicitud;si;fallecimiento
+468152981;Cataluña;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+622330258;Cataluña;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00001430;Madrid;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00001573;Madrid;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00001616;Navarra;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00001656;Canarias;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00001673;Canarias;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00002114;Pais Vasco;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00002124;Pais Vasco;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00002144;Pais Vasco;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00002165;Pais Vasco;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+415258011;Cataluña;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+526155213;Cataluña;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001389;La Rioja;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001422;Madrid;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001632;Navarra;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001738;Comunidad Valenciana;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00002150;Pais Vasco;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001043;Murcia;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00001406;Madrid;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+NE00001793;Galicia;Mujer;60-69;oncologica;primera solicitud;no;prestacion
+622330287;Cataluña;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001372;Andalucia;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001719;Canarias;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00002196;Aragon;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001339;Canarias;Mujer;60-69;oncologica;primera solicitud;no;denegacion
+NE00001304;Asturias;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001346;Asturias;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001355;Andalucia;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001681;Madrid;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001852;Islas Baleares;Mujer;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001664;Canarias;Mujer;60-69;oncologica;primera solicitud;no;denegacion
+405368132;Cataluña;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001150;Pais Vasco;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001453;Castilla y Leon;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001467;Andalucia;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001485;La Rioja;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001502;Extremadura;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001546;Castilla-La Mancha;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001590;Madrid;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001624;Navarra;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001660;Canarias;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001663;Canarias;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001695;Galicia;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001745;Comunidad Valenciana;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001749;Comunidad Valenciana;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001847;Islas Baleares;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00002143;Pais Vasco;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+422357071;Cataluña;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001444;Madrid;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001629;Navarra;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001811;Islas Baleares;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+NE00001813;Islas Baleares;Hombre;60-69;oncologica;primera solicitud;no;prestacion
+622330283;Cataluña;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+622330285;Cataluña;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001263;Islas Baleares;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001333;Canarias;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001384;Castilla y Leon;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00002163;Pais Vasco;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00002201;Andalucia;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001596;Madrid;Hombre;60-69;oncologica;primera solicitud;no;denegacion
+NE00002170;Pais Vasco;Hombre;60-69;oncologica;primera solicitud;no;denegacion
+NE00001307;Castilla y Leon;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001506;Asturias;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001526;Aragon;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001638;Canarias;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001686;Galicia;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001754;Comunidad Valenciana;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001780;Madrid;Hombre;60-69;oncologica;primera solicitud;no;fallecimiento
+NE00001563;Cantabria;Mujer;60-69;oncologica;instrucciones previas;si;prestacion
+NE00001748;Comunidad Valenciana;Mujer;60-69;neurologica;primera solicitud;si;prestacion
+NE00002142;Pais Vasco;Mujer;60-69;neurologica;primera solicitud;si;prestacion
+NE00001338;Canarias;Hombre;60-69;neurologica;primera solicitud;si;prestacion
+NE00001341;Canarias;Hombre;60-69;neurologica;primera solicitud;si;prestacion
+419065676;Cataluña;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+420302142;Cataluña;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+470346265;Cataluña;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+500336849;Cataluña;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+538781836;Cataluña;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001035;Madrid;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001205;Andalucia;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001219;Madrid;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001265;Castilla y Leon;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001343;Castilla y Leon;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001371;Andalucia;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001414;Madrid;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001416;Madrid;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001428;Madrid;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001451;Madrid;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001541;Castilla-La Mancha;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00002148;Pais Vasco;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+444178078;Cataluña;Mujer;60-69;neurologica;primera solicitud;no;fallecimiento
+NE00000787;Andalucia;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00000906;Andalucia;Mujer;60-69;neurologica;primera solicitud;no;prestacion
+NE00001543;Castilla-La Mancha;Mujer;60-69;neurologica;primera solicitud;no;fallecimiento
+NE00001483;Andalucia;Mujer;60-69;neurologica;primera solicitud;no;denegacion
+NE00001269;Castilla y Leon;Mujer;60-69;neurologica;primera solicitud;no;fallecimiento
+NE00001459;Asturias;Mujer;60-69;neurologica;primera solicitud;no;fallecimiento
+NE00001478;Castilla y Leon;Mujer;60-69;neurologica;primera solicitud;no;fallecimiento
+NE00001844;Islas Baleares;Mujer;60-69;neurologica;primera solicitud;no;denegacion
+NE00001645;Canarias;Mujer;60-69;neurologica;primera solicitud;no;denegacion
+429720415;Cataluña;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+495191030;Cataluña;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00000860;Madrid;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00000972;Galicia;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001357;Andalucia;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001379;Andalucia;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001435;Madrid;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001437;Madrid;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001456;Asturias;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001468;Andalucia;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001474;Castilla y Leon;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001512;Aragon;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001524;Aragon;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001574;Madrid;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001661;Canarias;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00001743;Comunidad Valenciana;Hombre;60-69;neurologica;primera solicitud;no;prestacion
+NE00002200;Andalucia;Hombre;60-69;neurologica;primera solicitud;no;fallecimiento
+NE00001380;Andalucia;Hombre;60-69;neurologica;primera solicitud;no;denegacion
+NE00001301;Asturias;Hombre;60-69;neurologica;primera solicitud;no;fallecimiento
+NE00001385;Castilla y Leon;Hombre;60-69;neurologica;primera solicitud;no;fallecimiento
+NE00001731;Galicia;Hombre;60-69;neurologica;primera solicitud;no;fallecimiento
+NE00001418;Madrid;Hombre;60-69;neurologica;primera solicitud;no;denegacion
+NE00001515;Aragon;Hombre;60-69;neurologica;instrucciones previas;si;fallecimiento
+498195642;Cataluña;Hombre;60-69;neurologica;instrucciones previas;no;denegacion
+521328207;Cataluña;Mujer;60-69;desconocida;primera solicitud;no;prestacion
+526845317;Cataluña;Mujer;60-69;desconocida;primera solicitud;no;prestacion
+503682254;Cataluña;Mujer;60-69;desconocida;primera solicitud;no;fallecimiento
+404300022;Cataluña;Mujer;60-69;desconocida;primera solicitud;no;fallecimiento
+NE00001169;Castilla y Leon;Mujer;60-69;desconocida;primera solicitud;no;denegacion
+NE00002219;Andalucia;Mujer;60-69;desconocida;primera solicitud;no;fallecimiento
+410414313;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;prestacion
+424495926;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;prestacion
+505996129;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;prestacion
+506215419;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;prestacion
+546324859;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;prestacion
+520900054;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+428057698;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+460782135;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+473330834;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+497385279;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+542954168;Cataluña;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+NE00001209;Castilla y Leon;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+NE00001473;Castilla y Leon;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+NE00001561;Castilla y Leon;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+NE00001832;Islas Baleares;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+NE00002223;Andalucia;Hombre;60-69;desconocida;primera solicitud;no;fallecimiento
+516790566;Cataluña;Hombre;60-69;desconocida;instrucciones previas;no;prestacion
+527839992;Cataluña;Hombre;60-69;desconocida;instrucciones previas;no;prestacion
+545665105;Cataluña;Hombre;60-69;desconocida;instrucciones previas;no;prestacion
+547519574;Cataluña;Hombre;60-69;desconocida;instrucciones previas;no;prestacion
+NE00001668;Canarias;Mujer;60-69;cardiovascular;primera solicitud;no;fallecimiento
+473670215;Cataluña;Hombre;70-79;neurologica;primera solicitud;no;revocacion
+NE00000779;Asturias;Mujer;70-79;neurologica;primera solicitud;no;revocacion
+NE00001202;Cantabria;Hombre;70-79;oncologica;primera solicitud;no;revocacion
+NE00001331;Canarias;Hombre;70-79;otra;primera solicitud;no;revocacion
+NE00001336;Canarias;Mujer;70-79;neurologica;primera solicitud;no;revocacion
+NE00001449;Madrid;Mujer;70-79;oncologica;primera solicitud;no;revocacion
+NE00001539;Castilla-La Mancha;Mujer;70-79;reumatologia y patologia osteomuscular;primera solicitud;no;revocacion
+NE00001554;Castilla-La Mancha;Mujer;70-79;desconocida;primera solicitud;no;revocacion
+NE00001666;Canarias;Mujer;70-79;neurologica;primera solicitud;no;revocacion
+NE00001670;Canarias;Hombre;70-79;neurologica;primera solicitud;no;revocacion
+NE00002212;Andalucia;Hombre;70-79;desconocida;primera solicitud;no;revocacion
+NE00002131;Pais Vasco;Mujer;70-79;reumatologia y patologia osteomuscular;primera solicitud;no;prestacion
+NE00001576;Madrid;Mujer;70-79;reumatologia y patologia osteomuscular;primera solicitud;no;denegacion
+NE00002176;Pais Vasco;Hombre;70-79;respiratoria;primera solicitud;si;prestacion
+NE00002146;Pais Vasco;Hombre;70-79;respiratoria;primera solicitud;si;fallecimiento
+NE00001334;Canarias;Mujer;70-79;respiratoria;primera solicitud;no;prestacion
+NE00001839;Islas Baleares;Mujer;70-79;respiratoria;primera solicitud;no;prestacion
+424434349;Cataluña;Mujer;70-79;respiratoria;primera solicitud;no;fallecimiento
+465446022;Cataluña;Hombre;70-79;respiratoria;primera solicitud;no;prestacion
+NE00002132;Pais Vasco;Hombre;70-79;respiratoria;primera solicitud;no;prestacion
+477366026;Cataluña;Hombre;70-79;respiratoria;primera solicitud;no;fallecimiento
+NE00000822;Castilla-La Mancha;Hombre;70-79;respiratoria;primera solicitud;no;fallecimiento
+NE00002140;Pais Vasco;Hombre;70-79;respiratoria;primera solicitud;no;fallecimiento
+NE00001517;Aragon;Mujer;70-79;pluripatologia;primera solicitud;no;prestacion
+NE00001721;Galicia;Mujer;70-79;pluripatologia;primera solicitud;no;prestacion
+NE00001733;Comunidad Valenciana;Mujer;70-79;pluripatologia;primera solicitud;no;fallecimiento
+NE00001688;Madrid;Mujer;70-79;pluripatologia;primera solicitud;no;denegacion
+NE00000823;Castilla-La Mancha;Hombre;70-79;pluripatologia;primera solicitud;no;prestacion
+NE00001619;Navarra;Hombre;70-79;pluripatologia;primera solicitud;no;prestacion
+NE00001174;Murcia;Hombre;70-79;pluripatologia;primera solicitud;no;denegacion
+NE00001434;Madrid;Hombre;70-79;pluripatologia;primera solicitud;no;denegacion
+NE00001463;Asturias;Hombre;70-79;pluripatologia;primera solicitud;no;denegacion
+417477712;Cataluña;Mujer;70-79;otra;primera solicitud;si;prestacion
+499491488;Cataluña;Hombre;70-79;otra;primera solicitud;si;prestacion
+NE00001615;Navarra;Mujer;70-79;otra;primera solicitud;no;prestacion
+468671846;Cataluña;Mujer;70-79;otra;primera solicitud;no;fallecimiento
+407854158;Cataluña;Mujer;70-79;otra;primera solicitud;no;fallecimiento
+472770023;Cataluña;Mujer;70-79;otra;primera solicitud;no;fallecimiento
+622330272;Cataluña;Mujer;70-79;otra;primera solicitud;no;prestacion
+622330277;Cataluña;Mujer;70-79;otra;primera solicitud;no;prestacion
+NE00002159;Pais Vasco;Mujer;70-79;otra;primera solicitud;no;denegacion
+427781616;Cataluña;Hombre;70-79;otra;primera solicitud;no;prestacion
+447188684;Cataluña;Hombre;70-79;otra;primera solicitud;no;prestacion
+475358961;Cataluña;Hombre;70-79;otra;primera solicitud;no;prestacion
+622330281;Cataluña;Hombre;70-79;otra;primera solicitud;no;fallecimiento
+NE00002153;Pais Vasco;Hombre;70-79;otra;primera solicitud;no;fallecimiento
+NE00001810;Islas Baleares;Hombre;70-79;otra;primera solicitud;no;denegacion
+NE00000732;Asturias;Hombre;70-79;otra;primera solicitud;no;fallecimiento
+NE00001835;Islas Baleares;Hombre;70-79;otra;primera solicitud;no;fallecimiento
+516767748;Cataluña;Mujer;70-79;otra;instrucciones previas;no;prestacion
+418531987;Cataluña;Mujer;70-79;oncologica;primera solicitud;si;prestacion
+NE00001039;Madrid;Mujer;70-79;oncologica;primera solicitud;si;prestacion
+NE00001618;Navarra;Mujer;70-79;oncologica;primera solicitud;si;fallecimiento
+NE00001755;Comunidad Valenciana;Mujer;70-79;oncologica;primera solicitud;si;prestacion
+NE00002134;Pais Vasco;Mujer;70-79;oncologica;primera solicitud;si;fallecimiento
+NE00001599;Madrid;Hombre;70-79;oncologica;primera solicitud;si;prestacion
+429215733;Cataluña;Hombre;70-79;oncologica;primera solicitud;si;fallecimiento
+NE00001528;Aragon;Hombre;70-79;oncologica;primera solicitud;si;fallecimiento
+NE00002171;Pais Vasco;Hombre;70-79;oncologica;primera solicitud;si;fallecimiento
+NE00001825;Islas Baleares;Hombre;70-79;oncologica;primera solicitud;si;fallecimiento
+424139212;Cataluña;Mujer;70-79;oncologica;primera solicitud;no;prestacion
+443156054;Cataluña;Mujer;70-79;oncologica;primera solicitud;no;prestacion
+448349062;Cataluña;Mujer;70-79;oncologica;primera solicitud;no;prestacion
+NE00000793;Andalucia;Mujer;70-79;oncologica;primera solicitud;no;prestacion
+NE00001499;Extremadura;Mujer;70-79;oncologica;primera solicitud;no;prestacion
+NE00001630;Navarra;Mujer;70-79;oncologica;primera solicitud;no;prestacion
+NE00002122;Pais Vasco;Mujer;70-79;oncologica;primera solicitud;no;prestacion
+NE00002145;Pais Vasco;Mujer;70-79;oncologica;primera solicitud;no;prestacion
+407816490;Cataluña;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+430396172;Cataluña;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+478808751;Cataluña;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001420;Madrid;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001589;Madrid;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001597;Madrid;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001260;Islas Baleares;Mujer;70-79;oncologica;primera solicitud;no;prestacion
+622330280;Cataluña;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001207;Andalucia;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001532;Castilla-La Mancha;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001644;Canarias;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001698;Galicia;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001335;Canarias;Mujer;70-79;oncologica;primera solicitud;no;denegacion
+NE00002204;Andalucia;Mujer;70-79;oncologica;primera solicitud;no;denegacion
+NE00001305;Asturias;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001633;Navarra;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001770;Madrid;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001771;Madrid;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001837;Islas Baleares;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00002202;Andalucia;Mujer;70-79;oncologica;primera solicitud;no;fallecimiento
+417478108;Cataluña;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+419019927;Cataluña;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+475314253;Cataluña;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00001369;Andalucia;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00001399;Madrid;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00001567;Madrid;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00001571;Madrid;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00001613;Navarra;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00001732;Galicia;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00001756;Comunidad Valenciana;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00002136;Pais Vasco;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00002179;Pais Vasco;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+410367191;Cataluña;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001342;Cantabria;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001402;Madrid;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001490;Andalucia;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00002174;Pais Vasco;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+622330265;Cataluña;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+622330268;Cataluña;Hombre;70-79;oncologica;primera solicitud;no;prestacion
+NE00000977;Comunidad Valenciana;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001358;Andalucia;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001836;Islas Baleares;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00002203;Andalucia;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001359;Andalucia;Hombre;70-79;oncologica;primera solicitud;no;denegacion
+NE00001617;Navarra;Hombre;70-79;oncologica;primera solicitud;no;denegacion
+NE00001211;Cantabria;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001261;Islas Baleares;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001330;Canarias;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001462;Asturias;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001525;Aragon;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001533;Castilla-La Mancha;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001538;Castilla-La Mancha;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001683;Madrid;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001794;Galicia;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001838;Islas Baleares;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+NE00001840;Islas Baleares;Hombre;70-79;oncologica;primera solicitud;no;fallecimiento
+405762727;Cataluña;Mujer;70-79;oncologica;instrucciones previas;no;fallecimiento
+474232448;Cataluña;Hombre;70-79;oncologica;instrucciones previas;no;fallecimiento
+NE00000907;Cantabria;Mujer;70-79;neurologica;primera solicitud;si;prestacion
+NE00001625;Navarra;Mujer;70-79;neurologica;primera solicitud;si;prestacion
+NE00001669;Galicia;Mujer;70-79;neurologica;primera solicitud;si;prestacion
+NE00001024;Madrid;Hombre;70-79;neurologica;primera solicitud;si;prestacion
+NE00001030;Madrid;Hombre;70-79;neurologica;primera solicitud;si;prestacion
+NE00001845;Islas Baleares;Hombre;70-79;neurologica;primera solicitud;si;prestacion
+429110435;Cataluña;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+462013292;Cataluña;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+469289031;Cataluña;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001264;Castilla y Leon;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001397;Murcia;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001405;Madrid;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001448;Madrid;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001469;Andalucia;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001603;Madrid;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001611;Navarra;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001702;Galicia;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00002120;Pais Vasco;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00002127;Pais Vasco;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+433053310;Cataluña;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+443607049;Cataluña;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+528195884;Cataluña;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00001398;Madrid;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00001424;Asturias;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+503690260;Cataluña;Mujer;70-79;neurologica;primera solicitud;no;denegacion
+622330263;Cataluña;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001776;Galicia;Mujer;70-79;neurologica;primera solicitud;no;prestacion
+NE00001395;Castilla y Leon;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00001648;Canarias;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00001674;Canarias;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00001394;Castilla y Leon;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00001542;Castilla-La Mancha;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00002197;Aragon;Mujer;70-79;neurologica;primera solicitud;no;fallecimiento
+414666023;Cataluña;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+485735694;Cataluña;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+500676297;Cataluña;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+622330257;Cataluña;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001108;Castilla y Leon;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001173;Murcia;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001352;Asturias;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001360;Andalucia;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001407;Madrid;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001484;La Rioja;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001488;Andalucia;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001491;Andalucia;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001550;Castilla-La Mancha;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001553;Castilla-La Mancha;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001570;Madrid;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001585;Madrid;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001620;Navarra;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001655;Canarias;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001696;Madrid;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001725;Galicia;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00002158;Pais Vasco;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00002173;Pais Vasco;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+411178538;Cataluña;Hombre;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00002178;Pais Vasco;Hombre;70-79;neurologica;primera solicitud;no;fallecimiento
+622330275;Cataluña;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+622330276;Cataluña;Hombre;70-79;neurologica;primera solicitud;no;prestacion
+NE00001730;Galicia;Hombre;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00001866;Madrid;Hombre;70-79;neurologica;primera solicitud;no;denegacion
+NE00001387;Asturias;Hombre;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00001774;Madrid;Hombre;70-79;neurologica;primera solicitud;no;fallecimiento
+NE00001758;Comunidad Valenciana;Hombre;70-79;neurologica;primera solicitud;no;denegacion
+NE00000887;Aragon;Hombre;70-79;neurologica;primera solicitud;no;denegacion
+NE00001821;Islas Baleares;Mujer;70-79;neurologica;instrucciones previas;si;prestacion
+NE00001857;Canarias;Mujer;70-79;neurologica;instrucciones previas;si;prestacion
+NE00002138;Pais Vasco;Mujer;70-79;neurologica;instrucciones previas;si;prestacion
+NE00001594;Madrid;Hombre;70-79;neurologica;instrucciones previas;si;prestacion
+NE00000903;La Rioja;Mujer;70-79;neurologica;instrucciones previas;no;prestacion
+NE00001581;Madrid;Mujer;70-79;neurologica;instrucciones previas;no;prestacion
+497370388;Cataluña;Mujer;70-79;neurologica;instrucciones previas;no;prestacion
+465462776;Cataluña;Hombre;70-79;neurologica;instrucciones previas;no;prestacion
+555133971;Cataluña;Mujer;70-79;desconocida;primera solicitud;si;prestacion
+622330273;Cataluña;Mujer;70-79;desconocida;primera solicitud;si;prestacion
+426155750;Cataluña;Hombre;70-79;desconocida;primera solicitud;si;fallecimiento
+545701409;Cataluña;Hombre;70-79;desconocida;primera solicitud;si;fallecimiento
+578275875;Cataluña;Hombre;70-79;desconocida;primera solicitud;si;fallecimiento
+513469566;Cataluña;Mujer;70-79;desconocida;primera solicitud;no;prestacion
+516750697;Cataluña;Mujer;70-79;desconocida;primera solicitud;no;prestacion
+526238935;Cataluña;Mujer;70-79;desconocida;primera solicitud;no;prestacion
+498461888;Cataluña;Mujer;70-79;desconocida;primera solicitud;no;fallecimiento
+576022512;Cataluña;Mujer;70-79;desconocida;primera solicitud;no;fallecimiento
+414669654;Cataluña;Mujer;70-79;desconocida;primera solicitud;no;fallecimiento
+472838334;Cataluña;Mujer;70-79;desconocida;primera solicitud;no;fallecimiento
+556496112;Cataluña;Mujer;70-79;desconocida;primera solicitud;no;fallecimiento
+NE00001818;Islas Baleares;Mujer;70-79;desconocida;primera solicitud;no;prestacion
+NE00000764;Murcia;Mujer;70-79;desconocida;primera solicitud;no;fallecimiento
+NE00002221;Andalucia;Mujer;70-79;desconocida;primera solicitud;no;fallecimiento
+NE00001303;Asturias;Mujer;70-79;desconocida;primera solicitud;no;denegacion
+NE00001351;Asturias;Mujer;70-79;desconocida;primera solicitud;no;denegacion
+509153670;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+513644496;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+449987485;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;denegacion
+452039861;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;denegacion
+439728150;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+455559549;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+460926131;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+472165830;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+472828620;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+477540888;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+503986726;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+529784653;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+539912415;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+543901279;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+551061838;Cataluña;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+NE00001503;Extremadura;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+NE00001559;Castilla y Leon;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+NE00002216;Andalucia;Hombre;70-79;desconocida;primera solicitud;no;fallecimiento
+NE00001425;Asturias;Hombre;70-79;desconocida;primera solicitud;no;denegacion
+419325257;Cataluña;Hombre;70-79;desconocida;instrucciones previas;no;fallecimiento
+453554464;Cataluña;Hombre;70-79;desconocida;instrucciones previas;no;fallecimiento
+498695697;Cataluña;Mujer;70-79;cardiovascular;primera solicitud;si;prestacion
+NE00001133;Pais Vasco;Hombre;70-79;cardiovascular;primera solicitud;si;fallecimiento
+NE00002115;Pais Vasco;Hombre;70-79;cardiovascular;primera solicitud;si;fallecimiento
+622330255;Cataluña;Mujer;70-79;cardiovascular;primera solicitud;no;prestacion
+480217160;Cataluña;Hombre;70-79;cardiovascular;primera solicitud;no;prestacion
+NE00002141;Pais Vasco;Hombre;70-79;cardiovascular;primera solicitud;no;prestacion
+466094730;Cataluña;Mujer;70-79;cardiovascular;instrucciones previas;no;prestacion
+469297552;Cataluña;Mujer;>80;desconocida;primera solicitud;no;revocacion
+498906308;Cataluña;Mujer;>80;desconocida;primera solicitud;no;revocacion
+516205980;Cataluña;Mujer;>80;respiratoria;primera solicitud;no;revocacion
+NE00000824;Castilla-La Mancha;Mujer;>80;pluripatologia;primera solicitud;no;revocacion
+NE00001461;Asturias;Mujer;>80;desconocida;primera solicitud;no;revocacion
+NE00001598;Madrid;Hombre;>80;neurologica;primera solicitud;no;revocacion
+NE00001605;Madrid;Mujer;>80;oncologica;primera solicitud;no;revocacion
+NE00001641;Canarias;Hombre;>80;oncologica;primera solicitud;no;revocacion
+NE00001643;Canarias;Mujer;>80;oncologica;primera solicitud;no;revocacion
+NE00001690;Galicia;Hombre;>80;oncologica;primera solicitud;no;revocacion
