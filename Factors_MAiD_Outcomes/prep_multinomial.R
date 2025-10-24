@@ -1,4 +1,6 @@
 
+setwd("c:/Users/Usuario/Desktop/INEDyTO/ICEL 5 - Australia/Factors_MAiD_Outcomes")
+
 library(dplyr)
 library(ggplot2)
 library(nnet)        # para regresión multinomial
@@ -11,7 +13,7 @@ library(lsr)         # para Cramér's V
 library(margins)    # para efectos marginales
 
 # Cargar datos
-datos <- read.csv("base_desenlace.csv", sep = ";")
+datos <- read.csv("base_desenlace.csv", sep = ";", encoding = "UTF-8")
 
 # Convierte a factor y elimina niveles vacíos
 datos$desenlace <- factor(datos$desenlace)

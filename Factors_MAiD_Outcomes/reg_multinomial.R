@@ -123,7 +123,7 @@ datos_sin_revocacion$ccaa <- relevel(
   ref = "Catalu\xf1a"  
 )
 
-# Cambiar referencia a oncológica
+# Cambiar referencia de patología a oncológica
 datos_sin_revocacion$patologia <- relevel(
   datos_sin_revocacion$patologia, 
   ref = "oncologica")
