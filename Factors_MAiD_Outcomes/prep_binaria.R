@@ -78,6 +78,18 @@ datos$ccaa_agrupada <- factor(
              "Navarra", "Asturias", "Aragón", "Castilla-La Mancha", "Otras CCAA")
 )
 
+## Crear nueva variable de CCAA agrupada según NUTS-1 Eurostat
+datos$ccaa_agrupada <- factor(
+  ifelse(datos$ccaa %in% c("Galicia", "Asturias", "Cantabria"), "Noroeste",
+  ifelse(datos$ccaa %in% c("Pais Vasco", "Navarra", "La Rioja", "Aragon"), "Noreste",
+  ifelse(datos$ccaa == "Madrid", "Madrid",
+  ifelse(datos$ccaa %in% c("Castilla y Leon", "Castilla-La Mancha", "Extremadura"), "Centro",
+  ifelse(datos$ccaa %in% c("Comunidad Valenciana", "Islas Baleares"), "Este",
+  ifelse(datos$ccaa == "Catalu�a", "Cataluña",
+  ifelse(datos$ccaa %in% c("Andalucia", "Murcia"), "Sur",
+          "Canarias"))))))),
+  levels = c("Noroeste", "Noreste", "Madrid", "Centro", "Este", "Cataluña", "Sur", "Canarias")
+)
 
 # Verificar las nuevas agrupaciones
 names(datos)
@@ -85,5 +97,6 @@ table(datos$edad_agrupada)
 prop.table(table(datos$edad_agrupada))
 table(datos$patologia_agrupada)
 table(datos$ccaa_agrupada)
+
 
 

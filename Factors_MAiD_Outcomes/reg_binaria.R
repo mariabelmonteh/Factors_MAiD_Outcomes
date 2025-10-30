@@ -526,3 +526,17 @@ if(linktest_summary_os$coefficients["hatsq", "Pr(>|z|)"] > 0.05) {
 } else {
   cat("Posible mala especificación del modelo (sobremuestreo)\n")
 }
+
+
+
+
+## Modelo completo con todas las variables agrupadas (interacción entre edad y sexo)
+modelo_binomial_interaccion <- glm(desenlace ~ sexo * edad_agrupada + patologia_agrupada + 
+                      ccaa_agrupada + tipo_procedimiento + adelanto_segunda_solicitud, 
+                      data = datos, family = binomial)
+
+summary(modelo_binomial_interaccion)
+install.packages('tigerstats')
+library(tigerstats)
+xtabs(~ datos$sexo + datos$edad_agrupada)
+prop.table(xtabs(~ datos$sexo + datos$edad_agrupada), margin = 2)
